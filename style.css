@@ -122,8 +122,9 @@ h1 span {
     }
 
     #clock {
+        width: 350px;
         display: grid;
-        grid-template-columns: repeat(1, minmax(200px, 390px));
+        grid-template-columns: repeat(1, minmax(200px, 320px));
         /* grid-template-rows: repeat(5 , 80px) */
         margin: 0 auto;
 
